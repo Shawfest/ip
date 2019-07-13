@@ -1,0 +1,6 @@
+Questions I have
+
+1) What quantity does the IP alpha converge to?
+2) What do the distributions of deep layer activations look like?
+    a) What is their mean, median, variance and skew?
+    b) Does IP produce better entropy measures on these intermediate levels
